@@ -1,0 +1,19 @@
+Holt Spalding & Oliver Newland
+MsPacman Character-centric DQN Experiment
+Date: 10/26/18
+
+Description: 
+    In the provided python file is a short experiment showcasing the performance differences between a 
+    DQN agent trained on a uncropped greyscale representation of the OpenAI MsPacman environment with 
+    that of a DQN agent trained on a smaller, Pacman-centric greyscale representation of the environment.
+    Details of the experiment can be found in the associated paper.
+
+
+Usage:
+    To run the experiment in a pip environment, first run 'pip install -r requirements.txt'
+    Be sure to run this in a virtual environment to prevent conflicts in your current pip environment.
+    
+    Run 'python PacmanDQNExp.py -exp 1' to run Experiment 1 described in the associated paper.
+    Run 'python PacmanDQNExp.py -exp 2' to run Experiment 2 described in the associated paper.
+
+Best

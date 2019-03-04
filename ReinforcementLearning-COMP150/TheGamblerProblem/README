@@ -1,0 +1,16 @@
+Author: Holt Spalding
+Gambler's Problem: Sutton & Barto Exercise 4.9
+Date: 10/2/18
+
+Description: 
+    In the provided python file is a short experiment showcasing how value iteration can be used
+    to solve the classic RL problem known as the "Gambler's Problem." Details of the problem and 
+    the experiment are aviable in the provided paper. 
+
+Usage:
+    If you would like to run your own experiment, add an intance of the GamblerExp class to main() 
+    and then run it's experiment() method. Examples are provided in main. The meaning of the 
+    GamblerExp's constructor's arguments are also detailed in the comments in the code. I hope the 
+    meaning of each line will be clear enough in conjunction with the provided paper. This was not
+    designed to be user-friendly, only to produce the graphs which feature in the corresponding     	paper. 
+

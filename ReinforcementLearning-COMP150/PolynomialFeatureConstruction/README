@@ -1,0 +1,18 @@
+Holt Spalding
+Pacman Polynomial Feature Construction
+Date: 11/29/18
+
+Description: 
+	In the provided eclipse project is a short experiment showcasing the 
+	potential performance differeces polynomial featuere construction can
+	have on a Sarsa and a Q-learning agent learning to play Pacman. Details 
+	of the problem and the experiment are aviable in the provided paper. 
+
+Usage:
+   	In order to run my two experiments described in my paper simply open
+	the eclipse project and then open the RunTest class in the pp/src folder
+	and you'll find an Experiment1() and Experiment2() method invoked in 
+	main. Uncomment the experiment you would like to run and then run 
+	RunTest.java in eclipse.
+
+Best

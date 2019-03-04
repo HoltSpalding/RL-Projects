@@ -1,0 +1,18 @@
+Holt Spalding
+Random Walk Experiment: Sutton & Barto Exercise 7.2
+Date: 10/26/18
+
+Description: 
+    In the provided python file is a short experiment showcasing the performance differences
+    between online and offline n-step TD methods on a random walk task. Details of the problem 
+    and  the experiment are aviable in the provided paper. 
+
+Usage:
+    If you would like to run your own experiment, simply run file and the results will be 
+    saved as pngs to your current working directory. You can change the number of runs of the 
+    experiment and the number of episodes per run by changing the parameters of the call
+    to experiment() at the bottom of the file. This was not designed to be user-friendly,
+    only to produce the graphs which feature in the corresponding paper. 
+
+
+Best
